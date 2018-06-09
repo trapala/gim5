@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{2D1F16B1-F8BE-32FB-7D75-06B3433E940B}</ProjectGuid>
+    <ProjectGuid>{8E322C9D-B9EA-DEC7-8FE8-AC2CCBF39852}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -115,9 +115,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Lab5.csproj">
-      <Project>{2CAC2FF7-99CC-D7EA-3A1B-F394FBCD333C}</Project>
-      <Name>Lab5</Name>
+    <ProjectReference Include="lab5.csproj">
+      <Project>{E9CCE542-313D-C284-5D99-D624659C8632}</Project>
+      <Name>lab5</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
